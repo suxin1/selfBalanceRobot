@@ -4,7 +4,7 @@
 
 #### 模块图片
 
-<img src="./TB6622fng.jpg" style="width:200px">
+![module image](./TB6622fng.jpg)
 
 #### 引脚说明
 
